@@ -28,8 +28,7 @@
 <a href = "https://github.com/SuJeongGong"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a> 
 
 
-## blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=0_sujeong)](https://velog.io/@0_sujeong) 
+## blog  ![[Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=0_sujeong)](https://velog.io/@0_sujeong) 
 ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=0_sujeong)
 
 
