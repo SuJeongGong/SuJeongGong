@@ -1,16 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=YooByeongJin&fontAlign=70&height=200)
 
-<!--
-**SuJeongGong/SuJeongGong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⭐Main Tech<br/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"/>
+<br/>
+😊Study<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
-Here are some ideas to get you started:
+🤲Sub Tech<br/>
+<img src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=SuJeongGong&&theme=dark&show_icons=true)
