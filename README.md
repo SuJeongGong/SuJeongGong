@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/maria-003545?style=for-the-badge&logo=maria&logoColor=white"/>
+<img src="https://img.shields.io/badge/maria-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
 <br/>
 😊Study<br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
