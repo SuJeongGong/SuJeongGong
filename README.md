@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=GongSuJeong&fontAlign=70&height=200)
 
 # My Stack
-## 🌟Main Tech<br/>
+## 🌟Main Tech
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 <br/>
 
-## ⭐Sub Tech<br/>
+## ⭐Sub Tech
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
 <br/>
 
-## 📚Study<br/>
+## 📚Study
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <br/>
 
@@ -28,7 +28,8 @@
 <a href = "https://github.com/SuJeongGong"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a> 
 
 
-## blog  ![[Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=0_sujeong)](https://velog.io/@0_sujeong) 
+## blog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=0_sujeong)](https://velog.io/@0_sujeong) 
 ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=0_sujeong)
 
 
